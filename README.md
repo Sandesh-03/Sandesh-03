@@ -29,5 +29,5 @@
 
 
 <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandesh-03&show_icons=true&locale=en&layout=compact" alt="sandesh-03" /></p>
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Sandesh-03&count_private=true&bg_color=DEG,434343,000000,434343&show_icons=true&title_color=e5dd03&text_color=04fd99&ring_color=d3ad0a&border_radius=25" alt="sandesh-03" /></p>
+<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Sandesh-03&count_private=true&bg_color=DEG,434343,000000,434343&show_icons=true&title_color=e5dd03&text_color=04fd99&ring_color=d3ad0a&border_radius=25" alt="sandesh-03" /></p>
 
