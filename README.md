@@ -30,6 +30,6 @@
 
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandesh-03&show_icons=true&locale=en&layout=compact&bg_color=DEG,00d5d6,434343,000000,000000,000000,000000,000000,000000,000000,000000,000000,000000,000000,434343,ff1744&title_color=e5dd03&text_color=04fd99&border_radius=25&border_color=d3ad0a" alt="sandesh-03" /></p>
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sandesh-03&count_private=true&bg_color=DEG,ff1744,434343,000000,000000,000000,000000,000000,000000,000000,000000,000000,000000,000000,434343,00d5d6&show_icons=true&title_color=e5dd03&text_color=04fd99&ring_color=d3ad0a&border_radius=25&border_color=d3ad0a" alt="sandesh-03" /></p>
-<div height="30"></div>
+<div height="70"></div>
 <a href="http://www.github.com/Sandesh-03"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sandesh-03&bg_color=000000&color=6366f1&line=ef4444&point=6366f1&area_color=000000&area=true&hide_border=false&border_color=d3ad0a&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
